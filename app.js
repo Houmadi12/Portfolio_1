@@ -157,7 +157,18 @@ document.querySelector("#interets").addEventListener("click", (e)=> {
                     <h4 class="text-dark fs-2">INTÉRÊTS</h4>
                     <hr class="border-3">
                     <div class="row">
-                        
+                        <div class="col-12">
+                            <div class="group mb-3"><i class="fa-solid fa-book-open-reader fs-1 me-3"></i> <span
+                                    class="fs-1">Lecture</span></div>
+                        </div>
+                        <div class="col-12">
+                            <div class="group mb-3"><i class="fa-solid fa-desktop fs-1 me-3"></i> <span
+                                    class="fs-1">Documentation</span></div>
+                        </div>
+                        <div class="col-12">
+                            <div class="group mb-3"><i class="fa-solid fa-person-running fs-1 me-3"></i> <span
+                                    class="fs-1">Sport</span></div>
+                        </div>
                     </div>
             </div> 
     `
