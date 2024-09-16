@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-height: 90vh;
+}
+.image{
+ display: flex;
+ justify-content: center;
+}
+
+.image img{
+    width: 150px;
+}
+
+.bg-color-gradient {
+   background: rgb(7,17,70);
+}
+
+footer{
+    background: rgb(7,17,70);
+}
