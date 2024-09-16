@@ -120,7 +120,7 @@ document.querySelector("#projets").addEventListener("click", (e)=> {
                         </div>
                         <div class="col-md-4 mb-2">
                             <div class="card h-100">
-                                <img src="image/Site3.PNG" class="card-img-top" alt="...">
+                                <img src="image/site3.PNG" class="card-img-top" alt="...">
                                 <div class="card-body">
                                   <p class="card-text">Reproduction d'un prototype <br> en ligne.</p>
                                   <a href="https://houmadi12.github.io/bootstrap-tache1/">Demo</a>
@@ -129,7 +129,7 @@ document.querySelector("#projets").addEventListener("click", (e)=> {
                         </div>
                         <div class="col-md-4">
                             <div class="card">
-                                <img src="image/Site4.PNG" class="card-img-top" alt="...">
+                                <img src="image/site4.PNG" class="card-img-top" alt="...">
                                 <div class="card-body">
                                   <p class="card-text">Reproduction d'un prototype <br> en ligne.</p>
                                   <a href="https://houmadi12.github.io/t8BootstrapPrototype3/">Demo</a>
@@ -138,7 +138,7 @@ document.querySelector("#projets").addEventListener("click", (e)=> {
                         </div>
                         <div class="col-md-4">
                             <div class="card">
-                                <img src="image/Site5.PNG" class="card-img-top" alt="...">
+                                <img src="image/site5.PNG" class="card-img-top" alt="...">
                                 <div class="card-body">
                                   <p class="card-text">Reproduction d'un prototype <br> en ligne.</p>
                                   <a href="https://houmadi12.github.io/bootstrap-tache2/">Demo</a>
